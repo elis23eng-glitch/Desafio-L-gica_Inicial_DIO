@@ -1,2 +1,2 @@
-# Desafio-L-gica_Inicial_DIO
+# Desafio-Logica_Inicial_DIO
 Meu Primeiro Desafio de Lógica
